@@ -1,0 +1,7 @@
+Continuous-integration summary
+==============================
+
+Visible tests: 8/8 passed
+StudentPointsTracker decision outcomes: 10/10 exercised
+Status: GREEN
+
